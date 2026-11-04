@@ -1,6 +1,8 @@
 # codekongdev
 
-Building developer tools and contributing to open source.
+Full-stack developer building AI agent tools and contributing to open source.
+
+**Featured:** [plz](https://github.com/codekongdev/plz), AI coding agent skills for Claude Code and Codex ([live demo](https://codekongdev.github.io/plz/skills/plz-3d-explain/assets/example-agent-sandbox.en.html)).
 
 ## Open source contributions
 
@@ -14,13 +16,13 @@ Last checked: 2026-11-04 15:58 KST.
 
 | Project | Contribution | PR |
 | --- | --- | --- |
+| [semlith](https://github.com/semlith/semlith) | Align report byte formatting with the portal. Released in [v0.51.2](https://github.com/semlith/semlith/releases/tag/v0.51.2). | [#301](https://github.com/semlith/semlith/pull/301) |
+| [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real PR-Agent workflows and add benchmark cases documenting detection gaps. | [#35](https://github.com/layer8labs8/ci-agent-audit/pull/35) |
+| [vigil](https://github.com/octacity-org/vigil) | Add the independently reviewed MOGAN 2026/2 golden dataset. | [#299](https://github.com/octacity-org/vigil/pull/299) |
 | [learn.ninja](https://github.com/learn-ninja/learn.ninja) | Add Storybook examples for bar and line charts. | [#210](https://github.com/learn-ninja/learn.ninja/pull/210) |
+| [learn.ninja](https://github.com/learn-ninja/learn.ninja) | Add standalone Storybook stories for the scenario briefing. | [#194](https://github.com/learn-ninja/learn.ninja/pull/194) |
 | [algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | Add a linear-time Python solution for Count Triplets with 16 tests. | [#161](https://github.com/Huerte/algo-solutions-python/pull/161) |
 | [algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | Add five Maximum Subarray edge case tests. | [#159](https://github.com/Huerte/algo-solutions-python/pull/159) |
-| [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real PR-Agent workflows and add benchmark cases documenting detection gaps. | [#35](https://github.com/layer8labs8/ci-agent-audit/pull/35) |
-| [semlith](https://github.com/semlith/semlith) | Align report byte formatting with the portal. Released in [v0.51.2](https://github.com/semlith/semlith/releases/tag/v0.51.2). | [#301](https://github.com/semlith/semlith/pull/301) |
-| [vigil](https://github.com/octacity-org/vigil) | Add the independently reviewed MOGAN 2026/2 golden dataset. | [#299](https://github.com/octacity-org/vigil/pull/299) |
-| [learn.ninja](https://github.com/learn-ninja/learn.ninja) | Add standalone Storybook stories for the scenario briefing. | [#194](https://github.com/learn-ninja/learn.ninja/pull/194) |
 
 Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/contributors), [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit/graphs/contributors), [vigil](https://github.com/octacity-org/vigil/graphs/contributors), [learn.ninja](https://github.com/learn-ninja/learn.ninja/graphs/contributors), and [algo-solutions-python](https://github.com/Huerte/algo-solutions-python/graphs/contributors).
 
