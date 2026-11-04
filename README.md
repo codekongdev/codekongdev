@@ -6,29 +6,32 @@ Building developer tools and contributing to open source.
 
 Contributions to external projects, with links to each pull request.
 
-**4 merged PRs · 6 open PRs, including 1 draft**
+**6 merged PRs · 7 open PRs, including 1 draft**
 
-Last checked: 2026-11-04 09:01 KST.
+Last checked: 2026-11-04 13:43 KST.
 
 ### Merged
 
 | Project | Contribution | PR |
 | --- | --- | --- |
+| [algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | Add a linear-time Python solution for Count Triplets with 16 tests. | [#161](https://github.com/Huerte/algo-solutions-python/pull/161) |
+| [algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | Add five Maximum Subarray edge case tests. | [#159](https://github.com/Huerte/algo-solutions-python/pull/159) |
 | [semlith](https://github.com/semlith/semlith) | Align report byte formatting with the portal. Released in [v0.51.2](https://github.com/semlith/semlith/releases/tag/v0.51.2). | [#301](https://github.com/semlith/semlith/pull/301) |
 | [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real PR-Agent workflows and add benchmark cases documenting detection gaps. | [#35](https://github.com/layer8labs8/ci-agent-audit/pull/35) |
 | [vigil](https://github.com/octacity-org/vigil) | Add the independently reviewed MOGAN 2026/2 golden dataset. | [#299](https://github.com/octacity-org/vigil/pull/299) |
 | [learn.ninja](https://github.com/learn-ninja/learn.ninja) | Add standalone Storybook stories for the scenario briefing. | [#194](https://github.com/learn-ninja/learn.ninja/pull/194) |
 
-Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/contributors), [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit/graphs/contributors), [vigil](https://github.com/octacity-org/vigil/graphs/contributors), and [learn.ninja](https://github.com/learn-ninja/learn.ninja/graphs/contributors).
+Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/contributors), [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit/graphs/contributors), [vigil](https://github.com/octacity-org/vigil/graphs/contributors), [learn.ninja](https://github.com/learn-ninja/learn.ninja/graphs/contributors), and [algo-solutions-python](https://github.com/Huerte/algo-solutions-python/graphs/contributors).
 
 ### In progress
 
 <details>
-<summary>Show 6 open pull requests</summary>
+<summary>Show 7 open pull requests</summary>
 
 | Project | Contribution | PR | Status |
 | --- | --- | --- | --- |
-| [algo-solutions-python](https://github.com/Huerte/algo-solutions-python) | Add five Maximum Subarray edge case tests. | [#159](https://github.com/Huerte/algo-solutions-python/pull/159) | Open |
+| [paseo](https://github.com/getpaseo/paseo) | Include timeline notifications in CLI text logs. | [#8720](https://github.com/getpaseo/paseo/pull/8720) | Approved |
+| [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Open |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Explain terminal input waiting when running `check` without a command. | [#249](https://github.com/InnerWarden/inner-warden/pull/249) | Open |
 | [grounded-json](https://github.com/msertdev/grounded-json) | Publish a versioned JSON Schema for extraction receipts. | [#38](https://github.com/msertdev/grounded-json/pull/38) | Open |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Accept short agent names in the install command. | [#248](https://github.com/InnerWarden/inner-warden/pull/248) | Open |
