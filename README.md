@@ -14,7 +14,7 @@ Contributions to external projects, with links to each pull request.
 
 **8 merged PRs · 12 open PRs, including 1 draft**
 
-Last checked: 2026-11-05 11:22 KST.
+Last checked: 2026-11-05 11:31 KST.
 
 ### Merged
 
@@ -44,7 +44,7 @@ Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/c
 | [nexora](https://github.com/msertdev/nexora) | Add issue comments with author and moderation permissions. | [#34](https://github.com/msertdev/nexora/pull/34) | Awaiting CI approval |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Add first CLI commands and correct the verdict reference. | [#250](https://github.com/InnerWarden/inner-warden/pull/250) | Awaiting CI approval |
 | [paseo](https://github.com/getpaseo/paseo) | Include timeline notifications in CLI text logs. | [#8720](https://github.com/getpaseo/paseo/pull/8720) | Blocked by [#6503](https://github.com/getpaseo/paseo/issues/6503) |
-| [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Review feedback received |
+| [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Revised; awaiting review |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Explain terminal input waiting when running `check` without a command. | [#249](https://github.com/InnerWarden/inner-warden/pull/249) | Awaiting CI approval |
 | [grounded-json](https://github.com/msertdev/grounded-json) | Publish a versioned JSON Schema for extraction receipts. | [#38](https://github.com/msertdev/grounded-json/pull/38) | Awaiting CI approval |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Accept short agent names in the install command. | [#248](https://github.com/InnerWarden/inner-warden/pull/248) | Awaiting CI approval |
