@@ -14,7 +14,7 @@ Contributions to external projects, with links to each pull request.
 
 **8 merged PRs · 12 open PRs, including 1 draft**
 
-Last checked: 2026-11-05 11:01 KST.
+Last checked: 2026-11-05 11:22 KST.
 
 ### Merged
 
@@ -38,13 +38,13 @@ Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/c
 
 | Project | Contribution | PR | Status |
 | --- | --- | --- | --- |
-| [OurHike](https://github.com/OurHike/OurHike) | Serve the app shell for deep links on production GitHub Pages. | [#2031](https://github.com/OurHike/OurHike/pull/2031) | CI pending |
-| [glsec](https://github.com/glsec/glsec) | Stop flagging `.npmrc` artifacts that only hold an unexpanded token placeholder. | [#1194](https://github.com/glsec/glsec/pull/1194) | CI pending |
-| [gno](https://github.com/gnolang/gno) | Report preprocess errors in `gno run` instead of panicking. | [#6451](https://github.com/gnolang/gno/pull/6451) | CI failing; awaiting review |
+| [OurHike](https://github.com/OurHike/OurHike) | Serve the app shell for deep links on production GitHub Pages. | [#2031](https://github.com/OurHike/OurHike/pull/2031) | Awaiting CI and review |
+| [glsec](https://github.com/glsec/glsec) | Stop flagging `.npmrc` artifacts that only hold an unexpanded token placeholder. | [#1194](https://github.com/glsec/glsec/pull/1194) | Awaiting review |
+| [gno](https://github.com/gnolang/gno) | Report preprocess errors in `gno run` instead of panicking. | [#6451](https://github.com/gnolang/gno/pull/6451) | Code checks passed; awaiting review approval |
 | [nexora](https://github.com/msertdev/nexora) | Add issue comments with author and moderation permissions. | [#34](https://github.com/msertdev/nexora/pull/34) | Awaiting CI approval |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Add first CLI commands and correct the verdict reference. | [#250](https://github.com/InnerWarden/inner-warden/pull/250) | Awaiting CI approval |
 | [paseo](https://github.com/getpaseo/paseo) | Include timeline notifications in CLI text logs. | [#8720](https://github.com/getpaseo/paseo/pull/8720) | Blocked by [#6503](https://github.com/getpaseo/paseo/issues/6503) |
-| [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Awaiting CI approval |
+| [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Review feedback received |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Explain terminal input waiting when running `check` without a command. | [#249](https://github.com/InnerWarden/inner-warden/pull/249) | Awaiting CI approval |
 | [grounded-json](https://github.com/msertdev/grounded-json) | Publish a versioned JSON Schema for extraction receipts. | [#38](https://github.com/msertdev/grounded-json/pull/38) | Awaiting CI approval |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Accept short agent names in the install command. | [#248](https://github.com/InnerWarden/inner-warden/pull/248) | Awaiting CI approval |
