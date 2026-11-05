@@ -12,14 +12,15 @@ AI 에이전트 도구를 만드는 풀스택 개발자이며, 오픈소스에 �
 
 Contributions to external projects, with links to each pull request.
 
-**7 merged PRs · 9 open PRs, including 1 draft**
+**8 merged PRs · 12 open PRs, including 1 draft**
 
-Last checked: 2026-11-04 15:58 KST.
+Last checked: 2026-11-05 11:01 KST.
 
 ### Merged
 
 | Project | Contribution | PR |
 | --- | --- | --- |
+| [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real OpenHands workflows and add benchmark cases documenting detection gaps. | [#51](https://github.com/layer8labs8/ci-agent-audit/pull/51) |
 | [semlith](https://github.com/semlith/semlith) | Align report byte formatting with the portal. Released in [v0.51.2](https://github.com/semlith/semlith/releases/tag/v0.51.2). | [#301](https://github.com/semlith/semlith/pull/301) |
 | [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real PR-Agent workflows and add benchmark cases documenting detection gaps. | [#35](https://github.com/layer8labs8/ci-agent-audit/pull/35) |
 | [vigil](https://github.com/octacity-org/vigil) | Add the independently reviewed MOGAN 2026/2 golden dataset. | [#299](https://github.com/octacity-org/vigil/pull/299) |
@@ -33,11 +34,14 @@ Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/c
 ### In progress
 
 <details>
-<summary>Show 9 open pull requests</summary>
+<summary>Show 12 open pull requests</summary>
 
 | Project | Contribution | PR | Status |
 | --- | --- | --- | --- |
-| [ci-agent-audit](https://github.com/layer8labs8/ci-agent-audit) | Validate real OpenHands workflows and add benchmark cases documenting detection gaps. | [#51](https://github.com/layer8labs8/ci-agent-audit/pull/51) | CI passed; awaiting review |
+| [OurHike](https://github.com/OurHike/OurHike) | Serve the app shell for deep links on production GitHub Pages. | [#2031](https://github.com/OurHike/OurHike/pull/2031) | CI pending |
+| [glsec](https://github.com/glsec/glsec) | Stop flagging `.npmrc` artifacts that only hold an unexpanded token placeholder. | [#1194](https://github.com/glsec/glsec/pull/1194) | CI pending |
+| [gno](https://github.com/gnolang/gno) | Report preprocess errors in `gno run` instead of panicking. | [#6451](https://github.com/gnolang/gno/pull/6451) | CI failing; awaiting review |
+| [nexora](https://github.com/msertdev/nexora) | Add issue comments with author and moderation permissions. | [#34](https://github.com/msertdev/nexora/pull/34) | Awaiting CI approval |
 | [inner-warden](https://github.com/InnerWarden/inner-warden) | Add first CLI commands and correct the verdict reference. | [#250](https://github.com/InnerWarden/inner-warden/pull/250) | Awaiting CI approval |
 | [paseo](https://github.com/getpaseo/paseo) | Include timeline notifications in CLI text logs. | [#8720](https://github.com/getpaseo/paseo/pull/8720) | Blocked by [#6503](https://github.com/getpaseo/paseo/issues/6503) |
 | [many-plus-one-commons](https://github.com/gregoryhansell/many-plus-one-commons) | Document the distinction between faithful transfer and justified inheritance. | [#5](https://github.com/gregoryhansell/many-plus-one-commons/pull/5) | Awaiting CI approval |
