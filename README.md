@@ -12,9 +12,9 @@ AI 에이전트 도구를 만드는 풀스택 개발자이며, 오픈소스에 �
 
 Contributions to external projects, with links to each pull request.
 
-**8 merged PRs · 12 open PRs, including 1 draft**
+**8 merged PRs · 14 open PRs, including 1 draft**
 
-Last checked: 2026-11-05 11:31 KST.
+Last checked: 2026-11-05 14:21 KST.
 
 ### Merged
 
@@ -34,10 +34,12 @@ Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/c
 ### In progress
 
 <details>
-<summary>Show 12 open pull requests</summary>
+<summary>Show 14 open pull requests</summary>
 
 | Project | Contribution | PR | Status |
 | --- | --- | --- | --- |
+| [transit](https://github.com/transit-audio/transit) | Make a render test observe the last strip mark without relying on the real clock. | [#341](https://github.com/transit-audio/transit/pull/341) | Awaiting CI and review |
+| [AMICI](https://github.com/AMICI-dev/AMICI) | Build model extensions with the environment's cmake and ninja. | [#3518](https://github.com/AMICI-dev/AMICI/pull/3518) | Awaiting review |
 | [OurHike](https://github.com/OurHike/OurHike) | Serve the app shell for deep links on production GitHub Pages. | [#2031](https://github.com/OurHike/OurHike/pull/2031) | Awaiting CI and review |
 | [glsec](https://github.com/glsec/glsec) | Stop flagging `.npmrc` artifacts that only hold an unexpanded token placeholder. | [#1194](https://github.com/glsec/glsec/pull/1194) | Awaiting review |
 | [gno](https://github.com/gnolang/gno) | Report preprocess errors in `gno run` instead of panicking. | [#6451](https://github.com/gnolang/gno/pull/6451) | Code checks passed; awaiting review approval |
