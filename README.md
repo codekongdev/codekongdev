@@ -50,3 +50,7 @@ Listed as a contributor in [semlith](https://github.com/semlith/semlith/graphs/c
 </details>
 
 [Browse all upstream pull requests →](https://github.com/pulls?q=is%3Apr+author%3Acodekongdev+-user%3Acodekongdev+sort%3Aupdated-desc)
+
+## Contact
+
+[Email](mailto:wmjoonoo3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kongjunwoo) · [Blog](https://codekong.tistory.com) · [X](https://x.com/codekongdev)
