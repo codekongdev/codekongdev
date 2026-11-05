@@ -2,7 +2,11 @@
 
 Full-stack developer building AI agent tools and contributing to open source.
 
+AI 에이전트 도구를 만드는 풀스택 개발자이며, 오픈소스에 기여하고 있습니다.
+
 **Featured:** [plz](https://github.com/codekongdev/plz), AI coding agent skills for Claude Code and Codex ([live demo](https://codekongdev.github.io/plz/skills/plz-3d-explain/assets/example-agent-sandbox.en.html)).
+
+**대표 프로젝트:** [plz](https://github.com/codekongdev/plz), Claude Code와 Codex용 AI 코딩 에이전트 스킬 ([한국어 데모](https://codekongdev.github.io/plz/skills/plz-3d-explain/assets/example-agent-sandbox.html)).
 
 ## Open source contributions
 
